@@ -3,6 +3,7 @@
 
 # --
 *.zip
+*.html
 
 # Compiled Object files
 *.slo
