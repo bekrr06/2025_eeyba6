@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  deploy-worksheet5
+  deploy-worksheet5:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
