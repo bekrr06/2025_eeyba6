@@ -1,3 +1,7 @@
+/** @file
+* this file does smnk
+*/
+
 #ifndef MATHSLIB_ADDER_H
 #define MATHSLIB_ADDER_H
  
